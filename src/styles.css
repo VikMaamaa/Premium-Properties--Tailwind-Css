@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-button {
+    @apply text-white bg-green-500
+}
+
+                                                                                            
